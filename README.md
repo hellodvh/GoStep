@@ -3,10 +3,10 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/hellodvh/GoStep?color=5938E8&style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/hellodvh/GoStep?color=FC6923&logoColor=ffa01c&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/hellodvh/GoStep?color=5938E8&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/hellodvh/GoStep?color=FC6923&label=LICENSE&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/hellodvh/GoStep?color=0a84ff&style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/hellodvh/GoStep?color=ff3a30&logoColor=ffa01c&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/hellodvh/GoStep?color=0a84ff&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/hellodvh/GoStep?color=ff3a30&label=LICENSE&style=for-the-badge)
 
 </div>
 
@@ -20,7 +20,7 @@
     <img src="Images/Icon.png" alt="Logo" width="140" height="140">
   </a>
   
-  <h3 align="center">EduCube2</h3>
+  <h3 align="center">GoStep</h3>
 
   <p align="center">
     GoStep is a mobile application made for Apple iPhone devices. The app is suited for people of all fitness levels to track and view the details of their daily walking and running activities. The app features a variety of health stats and additional features such as a speedometer and map.
@@ -79,15 +79,11 @@ This app uses MapKit to display geographic maps, landmarks and the users locatio
 This app uses Core Location to display the users current location and to calculate the average speed in kilometers
 
 ### Built With
+[![Github os](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)]()
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)]()
 
-[![GitHub os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
-[![GitHub os](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-za/windows)
-[![GitHub os](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![GitHub skills](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
-[![GitHub os](https://img.shields.io/badge/.NET-MAUI-a08be8.svg?colorA=555555&style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui)
-[![GitHub skills](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html/)
-[![GitHub skills](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/)
-[![GitHub skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&)](https://www.figma.com/signup)
 
 
 <!-- GETTING STARTED -->
@@ -261,8 +257,11 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [Microsoft](https://)
-* [Mockups](https://)
+* [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+* [XCode](https://developer.apple.com/xcode/)
+* [MapKit](https://developer.apple.com/documentation/mapkit/)
+* [CoreLocation](https://developer.apple.com/documentation/corelocation)
+* [HealthKit](https://developer.apple.com/documentation/healthkit)
 * [Lecturer](https://github.com/ArmandPret)
 
 
